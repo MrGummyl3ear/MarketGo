@@ -1,0 +1,18 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 98bd18e1fca3e2d46a5b30a0b479f08f, type: 3}
+  m_Name: FirstTestTarget
+  m_EditorClassIdentifier: 
+  ImageName: First_Test
+  requirements: HighIQ
+  warranty: 5 years
+  rate: {fileID: 1678150346943248, guid: 49074a081714d9d45be7f0d07956f469, type: 2}
+  Image: {fileID: 0}
